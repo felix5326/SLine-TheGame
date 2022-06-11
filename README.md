@@ -6,4 +6,5 @@
 - [ ] test
 
 ### CHARACTERS
-- TEXT.
+- SAWADA Shinji(♂️, MC)
+- SUZUKI Shirokusa(♀️, MC)

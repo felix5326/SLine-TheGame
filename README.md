@@ -4,3 +4,6 @@
 
 ## FEATURES
 - [ ] test
+
+### CHARACTERS
+- TEXT.

@@ -1,6 +1,6 @@
-## The Gambling Game
+# The Gambling Game
 
 > A visual novel game made with UNITY
 
-# FEATURES
+## FEATURES
 - []test

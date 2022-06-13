@@ -1,4 +1,4 @@
-# The Gambling Game
+# S Line The Game
 
 > A visual novel game made with UNITY
 
@@ -8,5 +8,5 @@
 ### CHARACTERS
 | MALE  | FEMALE |
 | ------------- | ------------- |
-| SAWADA Shinji(MC.)  | SUZUKI Shirokusa(MC.)  |
+| EMPTY  | EMPTY  |
 | EMPTY  | EMPTY  |
